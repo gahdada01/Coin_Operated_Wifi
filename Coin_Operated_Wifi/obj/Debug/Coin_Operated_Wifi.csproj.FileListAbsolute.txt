@@ -1,0 +1,54 @@
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe.config
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.pdb
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csprojResolveAssemblyReference.cache
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdLogin.resources
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.Properties.Resources.resources
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csproj.GenerateResource.Cache
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.exe
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.pdb
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmRegister.resources
+c:\users\coin_wifi\documents\visual studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdminPanel.resources
+C:\Users\Coin_wifi\Documents\Visual Studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdmin.resources
+C:\Users\Coin_wifi\Documents\Visual Studio 2012\Projects\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmConfirm.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe.config
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.pdb
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdmin.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdminPanel.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmConfirm.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdLogin.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.Properties.Resources.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmRegister.resources
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csproj.GenerateResource.Cache
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.exe
+C:\Users\Coin_wifi\Desktop\codes needed\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.pdb
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe.config
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.pdb
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csprojResolveAssemblyReference.cache
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdmin.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdminPanel.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmConfirm.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdLogin.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.Properties.Resources.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmRegister.resources
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csproj.GenerateResource.Cache
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.exe
+C:\Users\glen\Desktop\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.pdb
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe.config
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.pdb
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdmin.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdminPanel.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmConfirm.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmAdLogin.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.Properties.Resources.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.frmRegister.resources
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csproj.GenerateResource.Cache
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.exe
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.pdb
+C:\Users\Richard\Desktop\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Desktop\files\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\bin\Debug\Coin_Operated_Wifi.exe.config
+C:\Users\Richard\Desktop\files\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.exe
+C:\Users\Richard\Desktop\files\cow\Coin_Operated_Wifi\Coin_Operated_Wifi\Coin_Operated_Wifi\obj\Debug\Coin_Operated_Wifi.pdb
